@@ -4,8 +4,8 @@ import random
 import time
 f3=Tk()
 f3.geometry("800x600")
-f3.title("Audio and Text Processing")
-bg= PhotoImage(file="C:\\Users\\Administrator.WHITEHOUSE\\Desktop\\Programming\\MiniPjct Sem4\\Py Mini-Project\\Wall.png")
+f3.title("Visualisation of Bubblesort and Quicksort")
+bg= PhotoImage(file="Wall.png")
 select_alg = StringVar()
 data = []
 select_alg1 = StringVar()
