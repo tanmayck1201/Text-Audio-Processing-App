@@ -10,5 +10,7 @@ This app is built on python GUI interface & has many real-life uses.<br/>
 You can see main page interface of the app below...<br/><br/>
 
 ![T A](https://user-images.githubusercontent.com/68456423/136386683-9ef3d2d5-5fa9-42c7-bd8d-570d073370c6.JPG)
+<hr>
+Copyright (c) 2021 Tanmay Kulkarni( github - tanmayck1201).
 
 
